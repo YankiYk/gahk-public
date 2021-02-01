@@ -1,4 +1,4 @@
-# gahk-web testing...
+# testing
 
 a [Sails v1](https://sailsjs.com) application
 
